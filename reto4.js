@@ -57,4 +57,4 @@ export default function createXmasTree(height) {
   return arbol;
 }
 
-console.log(createXmasTree(2));
+console.log(createXmasTree(7));
